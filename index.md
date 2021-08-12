@@ -3,7 +3,7 @@
 *Written by @MiragianCycle on Thu 12 Aug 2021 06:00:51 PM +0530*
 
 ## INTRODUCTION
-The Open Manuscript project is a collaborative writing community, guided by the principles of other open knowledge movements. The aim of the project is to allow writers to tackle **Open Prompts** (essentially writing prompts from around the web) together in a inclusive, collaborative, diverse and welcoming space. Writers can contribute in a variety of ways - either as a *Writer* or as an *Editor* - using the version control system known as [Git](https://git-scm.com/), or making simple first [pull requests](https://www.firsttimersonly.com/). This is an excellent [video tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ).
+The Open Manuscript project is a collaborative writing community, guided by the principles of other open knowledge movements. The aim of the project is to allow writers to tackle **Open Prompts** (essentially writing prompts from around the web) together in a inclusive, collaborative, diverse and welcoming space. Writers can contribute using the version control system known as [Git](https://git-scm.com/), or making simple first [pull requests](https://www.firsttimersonly.com/). This is an excellent [video tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ) introducing the basic concepts. It's easy - if I can do it, so can you! 
 
 Every week, I ([MiragianCycle](https://theena.net/)), will attempt a short story based on a prompt. The entire writing session will be recorded, sans voice, and made available on YouTube; the manuscript for each prompt then made available on this repo. 
 
@@ -33,6 +33,10 @@ All works featured in this repository is licensed under [**Creative Commons Attr
 
 2. **Who the heck are you?**
 I am [Theena Kumaragurunathan](https://theena.net/), a Sri Lankan based novelist. My day job was in Mass Communications i.e. advertising - *was* because I left the industry in Feb 2020, just before the start of the pandemic. For the last 18 months, as I've fallen deeper and deeper into the rabbit hole that is [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), I've wondered what lessons can be borrowed from the thriving eco-systems that fuel open source software. I've written about how I applied Git version control to my writing in a column [here](https://news.itsfoss.com/version-control-writers/)for instance. I've also been cleaning up my own coding skills, increasingly turning to YouTube for specific lessons on coding. It is in the process of my self-learning journey that I began to play around with an idea to have a GitHub project (and associated YouTube Channel), centered around creative writing. 
+
+3. **How do I contribute?** 
+*This section needs expanding*
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
