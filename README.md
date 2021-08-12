@@ -1,4 +1,6 @@
 # Open Stories 
+**Version 0.1** 
+*Written by @MiragianCycle onThu 12 Aug 2021 06:00:51 PM +0530*
 
 ## INTRODUCTION
 The Open Manuscript project is a collaborative writing community, guided by the principles of other open knowledge movements. The aim of the project is to allow writers to tackle **Open Prompts** (essentially writing prompts from around the web) together in a inclusive, collaborative, diverse and welcoming space. Writers can contribute in a variety of ways - either as a *Writer* or as an *Editor* - using the version control system known as [Git](https://git-scm.com/), or making simple first [pull requests](https://www.firsttimersonly.com/). This is an excellent [video tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ).
