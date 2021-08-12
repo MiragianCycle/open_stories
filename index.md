@@ -35,7 +35,7 @@ All works featured in this repository is licensed under [**Creative Commons Attr
 I am [Theena Kumaragurunathan](https://theena.net/), a Sri Lankan based novelist. My day job was in Mass Communications i.e. advertising - *was* because I left the industry in Feb 2020, just before the start of the pandemic. For the last 18 months, as I've fallen deeper and deeper into the rabbit hole that is [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), I've wondered what lessons can be borrowed from the thriving eco-systems that fuel open source software. I've written about how I applied Git version control to my writing in a column [here](https://news.itsfoss.com/version-control-writers/) for instance. I've also been cleaning up my own coding skills, increasingly turning to YouTube for specific lessons on coding. It is in the process of my self-learning journey that I began to play around with an idea to have a GitHub project (and associated YouTube Channel), centered around creative writing. 
 
 3. **How do I contribute?** 
-Start [here](https://theena.net/OpenStories/prompts.md)
+Start [here](https://theena.net/OpenStories/prompts.html)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
