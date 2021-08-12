@@ -1,4 +1,4 @@
-# Open Stories 
+
 **Version 0.1** 
 *Written by @MiragianCycle on Thu 12 Aug 2021 06:00:51 PM +0530*
 
