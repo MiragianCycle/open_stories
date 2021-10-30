@@ -3,9 +3,9 @@
 *Written by @MiragianCycle on Thu 12 Aug 2021 06:00:51 PM +0530*
 
 ## INTRODUCTION
-The Open Story project is a collaborative writing community, guided by the principles of other open knowledge movements. The aim of the project is to allow writers to tackle **Open Writing Prompts** (essentially writing prompts from around the web) together in a inclusive, collaborative, diverse and welcoming space. Writers can contribute using the version control system known as [Git](https://git-scm.com/), or making simple first [pull requests](https://www.firsttimersonly.com/). This is an excellent [video tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ) introducing the basic concepts. It's easy - if I can do it, so can you! 
+The Open Story project is a collaborative writing community, guided by the principles of other open knowledge movements. The aim of the project is to allow writers to tackle *[*Open Writing Prompts**](https://theena.net/open_stories/prompts.html)(essentially writing prompts from around the web) together in a inclusive, collaborative, diverse and welcoming space. Writers can contribute using the version control system known as [Git](https://git-scm.com/), or making simple first [pull requests](https://www.firsttimersonly.com/). This is an excellent [video tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ) introducing the basic concepts. It's easy - if I can do it, so can you! 
 
-Every week, I ([MiragianCycle](https://theena.net/)), will attempt a short story based on a prompt. The entire writing session will be recorded, sans voice, and made available on YouTube; the manuscript for each prompt then made available on this repo. 
+Every week, I ([MiragianCycle](https://theena.net/)), will attempt a short story based on a prompt. The entire writing session will be recorded, sans voice, and made available on YouTube; the manuscript for each prompt then [made available on this repo](https://github.com/MiragianCycle/open_stories). 
 
 Writers are free to take these manuscripts, and change it as they wish. My hope is that this combination on fly-on-the-wall approach to seeing a writer at work, and then being able to access, read, edit, and take ownership of the respective manuscript, would be educational to young writers embarking on their first projects. In the long run, I hope it leads to a form of *open story-telling*.  
 
