@@ -23,13 +23,13 @@ At this early stage, I imagine the audience for this project belong to one of th
 
 - Experienced writers, embarking on their first writing projects 
 - Voracious readers who want to channel their love of words into writing 
-- Regular contributors to fan fiction. We know how much these words on pages, the worlds they conjure, the people that populate them, mean to you. We also see how [dismissively](https://winteriscoming.net/2019/11/10/george-rr-martin-fanfiction-explanation/) and [condescendingly](https://www.forbes.com/sites/hayleycuccinello/2017/02/10/fifty-shades-of-green-how-fanfiction-went-from-dirty-little-secret-to-money-machine/?sh=1be5a002264c)you are treated by the publishers and authors who would stand to benefit the most by allowing you to take ownership of some of these stories. You may not yet be 'fans' of any of the stories here, but you are welcome to take them and mould these narratives to your heart's content. 
+- Regular contributors to fan fiction. We know how much these words on pages, the worlds they conjure, the people that populate them, mean to you. We also see how [dismissively](https://winteriscoming.net/2019/11/10/george-rr-martin-fanfiction-explanation/) and [condescendingly](https://www.forbes.com/sites/hayleycuccinello/2017/02/10/fifty-shades-of-green-how-fanfiction-went-from-dirty-little-secret-to-money-machine/?sh=1be5a002264c) you are treated by the publishers and authors who would stand to benefit the most by allowing you to take ownership of some of these stories. You may not yet be 'fans' of any of the stories here, but you are welcome to take them and mould these narratives to your heart's content. 
 - Storytellers of other sorts looking for inspiration and collaboration from fresh new writing voices 
 
 ## FAQ
 
 1. **What about the legal stuff?** 
-All works featured in this repository is licensed under [**Creative Commons Attribution-Non Commercial 4.0 International License**](https://creativecommons.org/licenses/by-nc/4.0/). This essentially means that you are free to take these stories, copy, redistribute, adapt (remix, transform), as long as you give appropriate credit to the contributors of the project, and **you may not** use this for commercial purposes.
+All works featured in this repository is licensed under  <a rel="license" href="http://creativecommons.org/licenses/by-sau /4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. This essentially means that written work accessible in these repositories are **Free Cultural Works** - you are free to do with it as you wish, as long as it is shared alike. 
 
 2. **Who the heck are you?**
 I am [Theena Kumaragurunathan](https://theena.net/), a Sri Lankan based novelist. My day job was in Mass Communications i.e. advertising - *was* because I left the industry in Feb 2020, just before the start of the pandemic. For the last 18 months, as I've fallen deeper and deeper into the rabbit hole that is [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), I've wondered what lessons can be borrowed from the thriving eco-systems that fuel open source software. I've written about how I applied Git version control to my writing in a column [here](https://news.itsfoss.com/version-control-writers/) for instance. I've also been cleaning up my own coding skills, increasingly turning to YouTube for specific lessons on coding. It is in the process of my self-learning journey that I began to play around with an idea to have a GitHub project (and associated YouTube Channel), centered around creative writing. 
@@ -38,5 +38,10 @@ I am [Theena Kumaragurunathan](https://theena.net/), a Sri Lankan based novelist
 Start [here](https://theena.net/open_stories/prompts.html)
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+
+
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
