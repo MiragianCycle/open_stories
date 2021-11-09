@@ -24,7 +24,7 @@
 ** The 10 Unix Commands
 *** From this
 [link](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html):
-****     
+**** 
 
     - Rule of Modularity: Write simple parts connected by clean interfaces.
 
@@ -60,3 +60,12 @@
 
     - Rule of Extensibility: Design for the future, because it will be here sooner than you think.
        
+    
+
+*** Notes to self:
+    * Need to map the Unix commands to the Bibical commandments
+    * Which Unix commands stay, and what go? 
+    * What is the background context?  
+    * Who is this 'Moses-like person'?
+    * What is the structure of this piece?
+    * How many words, upper limit?
