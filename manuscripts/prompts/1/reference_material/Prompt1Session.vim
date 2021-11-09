@@ -11,7 +11,7 @@ set shortmess=aoO
 argglobal
 %argdel
 $argadd research.org
-edit places.org
+edit prompt1.org
 let s:save_splitbelow = &splitbelow
 let s:save_splitright = &splitright
 set splitbelow splitright
@@ -23,6 +23,10 @@ vsplit
 1wincmd h
 wincmd w
 wincmd w
+wincmd _ | wincmd |
+vsplit
+1wincmd h
+wincmd w
 let &splitbelow = s:save_splitbelow
 let &splitright = s:save_splitright
 wincmd t
@@ -32,33 +36,15 @@ set winminheight=0
 set winheight=1
 set winminwidth=0
 set winwidth=1
-exe '1resize ' . ((&lines * 52 + 53) / 106)
-exe 'vert 1resize ' . ((&columns * 67 + 67) / 134)
-exe '2resize ' . ((&lines * 52 + 53) / 106)
-exe 'vert 2resize ' . ((&columns * 66 + 67) / 134)
-exe '3resize ' . ((&lines * 51 + 53) / 106)
+exe '1resize ' . ((&lines * 67 + 68) / 137)
+exe 'vert 1resize ' . ((&columns * 77 + 77) / 154)
+exe '2resize ' . ((&lines * 67 + 68) / 137)
+exe 'vert 2resize ' . ((&columns * 76 + 77) / 154)
+exe '3resize ' . ((&lines * 67 + 68) / 137)
+exe 'vert 3resize ' . ((&columns * 77 + 77) / 154)
+exe '4resize ' . ((&lines * 67 + 68) / 137)
+exe 'vert 4resize ' . ((&columns * 76 + 77) / 154)
 argglobal
-balt people.org
-setlocal fdm=expr
-setlocal fde=GetOrgFolding()
-setlocal fmr={{{,}}}
-setlocal fdi=#
-setlocal fdl=0
-setlocal fml=1
-setlocal fdn=20
-setlocal fen
-let s:l = 2 - ((1 * winheight(0) + 26) / 52)
-if s:l < 1 | let s:l = 1 | endif
-keepjumps exe s:l
-normal! zt
-keepjumps 2
-normal! 0
-wincmd w
-argglobal
-if bufexists("people.org") | buffer people.org | else | edit people.org | endif
-if &buftype ==# 'terminal'
-  silent file people.org
-endif
 balt places.org
 setlocal fdm=expr
 setlocal fde=GetOrgFolding()
@@ -68,11 +54,59 @@ setlocal fdl=0
 setlocal fml=1
 setlocal fdn=20
 setlocal fen
-let s:l = 1 - ((0 * winheight(0) + 26) / 52)
+5
+normal! zo
+let s:l = 6 - ((5 * winheight(0) + 33) / 67)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 1
+keepjumps 6
+normal! 0
+wincmd w
+argglobal
+if bufexists("places.org") | buffer places.org | else | edit places.org | endif
+if &buftype ==# 'terminal'
+  silent file places.org
+endif
+balt prompt1.org
+setlocal fdm=expr
+setlocal fde=GetOrgFolding()
+setlocal fmr={{{,}}}
+setlocal fdi=#
+setlocal fdl=0
+setlocal fml=1
+setlocal fdn=20
+setlocal fen
+let s:l = 2 - ((1 * winheight(0) + 33) / 67)
+if s:l < 1 | let s:l = 1 | endif
+keepjumps exe s:l
+normal! zt
+keepjumps 2
+normal! 067|
+wincmd w
+argglobal
+if bufexists("people.org") | buffer people.org | else | edit people.org | endif
+if &buftype ==# 'terminal'
+  silent file people.org
+endif
+balt research.org
+setlocal fdm=expr
+setlocal fde=GetOrgFolding()
+setlocal fmr={{{,}}}
+setlocal fdi=#
+setlocal fdl=0
+setlocal fml=1
+setlocal fdn=20
+setlocal fen
+6
+normal! zo
+7
+normal! zo
+let s:l = 3 - ((2 * winheight(0) + 33) / 67)
+if s:l < 1 | let s:l = 1 | endif
+keepjumps exe s:l
+normal! zt
+keepjumps 3
 normal! 0
 wincmd w
 argglobal
@@ -89,33 +123,40 @@ setlocal fdl=0
 setlocal fml=1
 setlocal fdn=20
 setlocal fen
-1
+5
 normal! zo
 5
 normal! zo
-6
+8
 normal! zo
-20
+22
 normal! zo
-43
+45
 normal! zo
-let s:l = 43 - ((42 * winheight(0) + 25) / 51)
+let s:l = 53 - ((46 * winheight(0) + 33) / 67)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 43
-normal! 0
+keepjumps 53
+normal! 030|
 wincmd w
-exe '1resize ' . ((&lines * 52 + 53) / 106)
-exe 'vert 1resize ' . ((&columns * 67 + 67) / 134)
-exe '2resize ' . ((&lines * 52 + 53) / 106)
-exe 'vert 2resize ' . ((&columns * 66 + 67) / 134)
-exe '3resize ' . ((&lines * 51 + 53) / 106)
+3wincmd w
+exe '1resize ' . ((&lines * 67 + 68) / 137)
+exe 'vert 1resize ' . ((&columns * 77 + 77) / 154)
+exe '2resize ' . ((&lines * 67 + 68) / 137)
+exe 'vert 2resize ' . ((&columns * 76 + 77) / 154)
+exe '3resize ' . ((&lines * 67 + 68) / 137)
+exe 'vert 3resize ' . ((&columns * 77 + 77) / 154)
+exe '4resize ' . ((&lines * 67 + 68) / 137)
+exe 'vert 4resize ' . ((&columns * 76 + 77) / 154)
 if exists(':tcd') == 2 | tcd ~/Documents/coding\ work/git\ hub\ clones/OpenManuscripts/manuscripts/prompts/1/reference_material | endif
 tabnext 1
-badd +43 ~/Documents/coding\ work/git\ hub\ clones/OpenManuscripts/manuscripts/prompts/1/reference_material/research.org
-badd +0 ~/Documents/coding\ work/git\ hub\ clones/OpenManuscripts/manuscripts/prompts/1/reference_material/people.org
-badd +0 ~/Documents/coding\ work/git\ hub\ clones/OpenManuscripts/manuscripts/prompts/1/reference_material/places.org
+badd +1 ~/Documents/coding\ work/git\ hub\ clones/OpenManuscripts/manuscripts/prompts/1/reference_material/research.org
+badd +2 ~/Documents/coding\ work/git\ hub\ clones/OpenManuscripts/manuscripts/prompts/1/reference_material/people.org
+badd +2 ~/Documents/coding\ work/git\ hub\ clones/OpenManuscripts/manuscripts/prompts/1/reference_material/places.org
+badd +1 ~/Documents/coding\ work/git\ hub\ clones/OpenManuscripts/manuscripts/prompts/1/reference_material/License.md
+badd +0 ~/Documents/coding\ work/git\ hub\ clones/OpenManuscripts/prompts.md
+badd +6 ~/Documents/coding\ work/git\ hub\ clones/OpenManuscripts/manuscripts/prompts/1/reference_material/prompt1.org
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0 && getbufvar(s:wipebuf, '&buftype') isnot# 'terminal'
   silent exe 'bwipe ' . s:wipebuf
 endif

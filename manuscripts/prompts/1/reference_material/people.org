@@ -1,5 +1,5 @@
 #+Title: Prompt 1: People
-#+author: Theena Kumaragurunathan
+#+author: Theena Kumaragurunathan (https://github.com/MiragianCycle)
 #+License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 

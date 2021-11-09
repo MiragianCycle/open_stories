@@ -1,0 +1,8 @@
+#+TITLE: Prompt 1
+#+Author: Theena Kumaragurunathan
+#+License: CC-BY-SA 4.0 (creativecommons.org/licenses/by-sa/4.0/)
+
+* Prompt 1: A Novel About Vim
+
+- **Idea**: 
+A re-imagining of Moses receiving the Ten Commandments, but instead of the Commandments in the form of a stone tablet, it's a computer terminal opened on Vim - he doesn't know how to quit! - and this protagonist has to figure out how to unravel these commandments. 
