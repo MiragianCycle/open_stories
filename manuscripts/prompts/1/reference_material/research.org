@@ -7,24 +7,23 @@
 
 
 ** The Bibical Ten Commandments
-*** I am the Lord Thy God
-*** Thou shalt have no other gods before me
-*** Thou shalt not take the name of thy God in vain
-*** Remember the sabbath, to keep it holy
-*** Honor thy father and thy mother
-*** Thou shalt not murder
-*** Thou shalt not commmit adultery
-*** Thou shalt not steal
-*** Thou shalt not bear false witness against thy neighbour
-*** Thou shalt not covet thy neighbour's wife
-*** or his slaves, or his animals, or anything of thy neighbour
-*** You shall set up these stones, which I command you today, on Mount Gerizim
+- I am the Lord Thy God
+- Thou shalt have no other gods before me
+- Thou shalt not take the name of thy God in vain
+- Remember the sabbath, to keep it holy
+- Honor thy father and thy mother
+- Thou shalt not murder
+- Thou shalt not commmit adultery
+- Thou shalt not steal
+- Thou shalt not bear false witness against thy neighbour
+- Thou shalt not covet thy neighbour's wife
+- or his slaves, or his animals, or anything of thy neighbour
+- You shall set up these stones, which I command you today, on Mount Gerizim
 
 
 ** The 10 Unix Commands
-*** From this
-[link](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html):
-**** 
+- From this: [link](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html):
+
 
     - Rule of Modularity: Write simple parts connected by clean interfaces.
 
