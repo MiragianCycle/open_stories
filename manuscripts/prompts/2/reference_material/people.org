@@ -1,0 +1,24 @@
+#+Title: Prompt 1: People
+#+author: Theena Kumaragurunathan
+#+License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+* People
+** Main Characters
+ 
+|   *NAME* | *Self-Esteem Index (1-5)* | *Social Repute (1-5)* |
+| ---------|---------------------------| --------------------- |
+| Ap (áp-) |     3-2-4                 |    2-3-5              |
+| Agni (AG-nee) | 3-2-4                |    2-3-5              |
+| Prithvi (pṛthvī) |     3-2-4         |    2-3-5              |
+| Vayu (Vāyu) |     3-2-4              |    2-3-5              |
+
+*** Secondary Characters
+
+| Ap (áp-) |     3-2-4                 |    2-3-5              |
+| Ap (áp-) |     3-2-4                 |    2-3-5              |
+
+*** Etymology and naming logic
+
+- The naming logic is based on the Avatar (and lesser known Captain Planet) universes, i.e, the four protaganists are named after the four primary elements, Water (Ap), Fire (Agni), Earth (Prithvi), and Air (Vāyu)
+- The etymology for their names come from Sanskrit, and Hindu Mythology
