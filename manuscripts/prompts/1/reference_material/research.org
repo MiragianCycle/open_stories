@@ -1,4 +1,6 @@
-* THE TEN COMMANDS
+#+TITLE: Prompt 1: Research
+#+Author: Theena Kumaragurunathan
+#+License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ** LOGLINE: 
 In a dystopian future, a Moses-like person is offered a means of restarting human civilization anew. The commandments are earned, not given; instead of stone tablets, this person is given a terminal, cursor blinking at the shell prompt. From here, our protagonist must figure how to get this terminal to reveal its secrets.
@@ -47,4 +49,5 @@ From this:
 - What is the background context?  
 - Who is this 'Moses-like person'?
 - What is the structure of this piece?
+      - 
 - How many words, upper limit?

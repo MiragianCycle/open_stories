@@ -1,2 +1,4 @@
-#+ TITLE: Open Stories, Prompt 1
-* Places
+#+TITLE: Prompt 1: Places and Time
+#+Author: Theena Kumaragurunathan
+#+License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
