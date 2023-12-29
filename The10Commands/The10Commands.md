@@ -7,7 +7,7 @@ A desperate man leading a group of survivors through a post climate apocalyptic 
 
 - Click [here](https://miragiancycle.github.io/open_stories/The10Commands/ResearchNotes/The10CommandsResearch.html) for research and world-building details.
 
-## Section 1
+## (Hello World)
 
 ```
 (Let me tell you about the time I rebirth you)
