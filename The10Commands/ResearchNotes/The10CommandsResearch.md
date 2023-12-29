@@ -33,7 +33,7 @@ This story will draw from mythologies of the Abrahamic traditions, early 20th ce
 
 **The Prophetic Perfect Tense**
 
-The prophetic perfect tense refers to a linguistic construction used in some languages, particularly in ancient texts or religious scriptures, where a future event is described with such certainty and conviction that it is expressed as if it has already happened.
+The prophetic perfect tense refers to a linguistic construction used in some languages, particularly in ancient texts or religious scriptures [^3], where a future event is described with such certainty and conviction that it is expressed as if it has already happened.
 
 In this tense, the speaker or writer is so confident that the future event will occur that they articulate it as completed in the present or past. It's often employed to convey a sense of inevitability or certainty about the fulfillment of a prophecy or prediction.
 
@@ -65,6 +65,7 @@ TODO
 
 [^1]: Common Lisp: A Gentle Introduction to Symbolic Computing [https://www.cs.cmu.edu/~dst/LispBook/]
 [^2]: The 18th Brumerie of Louis Bornaparte [https://www.marxists.org/archive/marx/works/1852/18th-brumaire/]
+[^3]: The Prophetic Perfect Tense [https://www.revisedenglishversion.com/Ephesians/2/6]
 
 
 
