@@ -38,8 +38,10 @@ TODO
    
    > For to us a child is born, to us a son is given, and the government will be on his shoulders...
        ***Isaiah 9:6***
+   
    > But he was pierced for our transgressions, he was crushed for our iniquities..
       ***Isaiah 53:5***
+   
    > Certainly has Allah showed to His Messenger the vision in truth...
      ***Surah Al-Fath (48:27)***
    
