@@ -44,9 +44,9 @@ This story will draw from mythologies of the Abrahamic traditions, early 20th ce
  
  Short: it is a reflection of my political leaning.
  
- Long: Capitalism is the pointy-end with which we have poked, and continue to poke, this planet - repeatedly, and disastrously, since the Industrial Revolution. 
+ Long: Capitalism is the sharp and pointy-end with which we have poked and desecrated, and continue to desecrate, our planet - repeatedly, and disastrously, since the Industrial Revolution. 
  
- Climate change is man-made, yes, but capitalism made man do it. 
+ Climate change is man-made. Capitalism made man do it. 
  
  **I don't agree with your politics**
  
