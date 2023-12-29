@@ -39,3 +39,6 @@ Whether you're a seasoned wordsmith or just starting out, you can join as a *Wri
 2. **Who's Behind This?**
    [Theena Kumaragurunathan](https://theena.net/) is a novelist-filmmaker, based in Colombo, Sri Lanka. He is the recipient of the Sri Lankan National Literary Award (2016) for his debut [First Utterance](https://www.amazon.com/First-Utterance-Miragian-Cycles-Book-ebook/dp/B08MBX8GRZ). His first film [Pala](https://thepalafilm.com/) is currently being shown in film festivals. 
 
+3. **What do I need?**
+   You need a computer, an internet connection, a GitHub account (free), GitHub desktop app, a text-editor for Markdown (VSCode, Typora, Atom, Vim/NeoVim are all free and perfectly suited for the job - I personally use NeoVim. If you come from a non techy/Computer Science background, I recommend you start off with VSCode. Or you can go really hardcore and do this on Emacs - you do you, you hipster weirdo). Go to the Toolkit for a more in-depth tutorial on using Github desktop and using VSCode. 
+
