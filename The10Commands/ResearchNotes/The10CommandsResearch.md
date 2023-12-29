@@ -9,23 +9,27 @@
 - **Logline/Summary:** A desperate man leading a small group of survivors in a post climate apocalypse future, encounters an ancient computer that promises to help him revive civilization. 
 
 ## Plot Overview
+
 A Moses-like figure is leading a small group of survivors through a post climate apocalypse waste-land. He is starving, dehydrated and desperate, considering taking his own life as punishment for his failures to save these people who rely on him. At that most vulnerable of moments, he encounters an ancient computer that promises to help him and his people revive human civilization.
 
 
 
 ## Plot Ingredients
 
-This story will draw from mythologies from Abrahamic traditions, early 20th century computing history (particularly Unix and early AI and symbolic computing around Lisp), survivalist culture, and Marxism. 
+This story will draw from mythologies of the Abrahamic traditions, early 20th century computing history (particularly Unix, and early AI and symbolic computing using Lisp), Marxism, and contemporary survivalist culture.
 
 
 
 ### Place
+ 
 - [Description of places relevant to the research]
 
 ### People
+
 - [List of key individuals or characters involved]
 
 ### Other Elements
+
 **The Prophetic Perfect Tense**
 
 The prophetic perfect tense refers to a linguistic construction used in some languages, particularly in ancient texts or religious scriptures, where a future event is described with such certainty and conviction that it is expressed as if it has already happened.
