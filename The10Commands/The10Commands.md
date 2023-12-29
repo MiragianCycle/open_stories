@@ -1,7 +1,11 @@
 # The 10 Commands
 
 ## Logline/Summary
-[A desperate man leading a group of survivors through a post climate apocalyptic future, chances upon an ancient computer that promises to help him revive civilization]
+A desperate man leading a group of survivors through a post climate apocalyptic future, chances upon an ancient computer that promises to help him revive civilization.
+
+### Research 
+
+- Click [here](The10Commands/ResearchNotes/The10CommandsResearch.md) for research and world-building details.
 
 ## Section 1
 [Start of your story. This can be divided into multiple sections and subsections as needed.]
