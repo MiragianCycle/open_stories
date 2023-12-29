@@ -16,7 +16,8 @@ A Moses-like figure is leading a small group of survivors through a post climate
 
 ## Plot Ingredients
 
-This story will draw from mythologies of the Abrahamic traditions, early 20th century computing history (particularly Unix, and early AI and symbolic computing using Lisp), Marxism, and contemporary survivalist culture.
+This story will draw from mythologies of the Abrahamic traditions, early 20th century computing history [^1]
+(particularly Unix, and early AI and symbolic computing using Lisp), Marxism [^2], and contemporary survivalist culture.
 
 
 
@@ -61,11 +62,13 @@ TODO
 ---
 
 ## Further Reading
-1. **Karl Marx: The 18th Brumerie of Louis Bonaparte**[^1]
-2. **Common Lisp: A Gentle Introduction to Symbolic Computing**[^2]
 
-[^1]: [https://www.marxists.org/archive/marx/works/1852/18th-brumaire/]
-[^2]: [https://www.cs.cmu.edu/~dst/LispBook/]
+
+[^1]: [https://www.cs.cmu.edu/~dst/LispBook/]
+[^2]: [https://www.marxists.org/archive/marx/works/1852/18th-brumaire/]
+
+
+
 
 This research is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). Attribution: [2024, Theena Kumaragurunathan].
 
