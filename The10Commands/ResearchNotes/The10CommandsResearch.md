@@ -34,6 +34,8 @@ This story will draw from mythologies of the Abrahamic traditions, early 20th ce
 	 8. *Technical Skills:* Understanding and utilizing basic technology.
 	 9. *Education and Knowledge Sharing:* Passing on essential knowledge to future generations.
 	 10. *Cultural Preservation:* Safeguarding cultural heritage and traditions.
+	
+	
  
  #### Marxism In the Time of Apocalypse
 
