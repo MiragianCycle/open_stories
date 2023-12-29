@@ -1,8 +1,10 @@
-# Research Notes: [Title of Research]
+# Research Notes:
 
 ## Metadata
-- **Author(s):** [Theena Kumaragurunathan]
-- **Genre:** [Genre of Research]
+
+- **Title**: The 10 Commands
+- **Author(s):** Theena Kumaragurunathan
+- **Genre:** Speculative Fiction
 - **Year** 2024
 - **Logline/Summary:** A desperate man leading a small group of survivors in a post climate apocalypse future, encounters an ancient computer that promises to help him revive civilization. 
 
