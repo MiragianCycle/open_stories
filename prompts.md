@@ -15,6 +15,6 @@ Spanning across multiple genres - from science and speculative fiction to magic 
 
 ***January*** 
 
-1. How to Reboot Civilization: The 10 Commands  [Manuscript](The10Commands/The10Commands.md) | [Research and Notes](The10Commands/ResearchNotes/The10CommandsResearch.md)
-2. The Foodie
-3. Agni in Balangoda 
+1. Rebooting a Civilization: *The 10 Commands*  [Manuscript](The10Commands/The10Commands.md) | [Research and Notes](The10Commands/ResearchNotes/The10CommandsResearch.md)
+2. Unattainable Desire: *The Foodie*
+3. The Discovery of Fire: *Agni in Balangoda*
