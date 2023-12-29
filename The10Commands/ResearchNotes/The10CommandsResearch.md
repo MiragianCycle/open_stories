@@ -4,10 +4,10 @@
 - **Author(s):** [Theena Kumaragurunathan]
 - **Genre:** [Genre of Research]
 - **Year** 2024
-- **Logline/Summary:** [Research notes for The 10 Commands, an Open Stories manuscript]
+- **Logline/Summary:** A desperate man leading a small group of survivors in a post climate apocalypse future, encounters an ancient computer that promises to help him revive civilization. 
 
 ## Plot Overview
-[Provide a concise overview of the plot or main focus of the research]
+
 
 ## Plot Ingredients
 ### Place
