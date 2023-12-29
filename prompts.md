@@ -1,6 +1,6 @@
 # Prompts
 
-Hell and welcome to the prompts section!
+Hello and welcome to the prompts section!
 
 These prompts are crafted to ignite your imagination, encouraging collaborative storytelling within our inclusive community.
 

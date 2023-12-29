@@ -10,7 +10,7 @@ Whether you're a seasoned wordsmith or just starting out, you can join as a *Wri
 
 Every week, ([I](https://theena.net/)) craft a short story based on a prompt. The writing sessions are recorded without voice and shared on YouTube, while the manuscript (in markdown, LaTeX, PDF and HTML formats) is made available here.
 
-Have a look at the prompts page!
+Have a look at the [Prompts](prompts.md) page!
 
 ## Why Open Stories?
 
