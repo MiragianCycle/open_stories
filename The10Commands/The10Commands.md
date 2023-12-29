@@ -1,11 +1,9 @@
 # The 10 Commands
 
-## Logline/Summary
-A desperate man leading a group of survivors through a post climate apocalyptic future, chances upon an ancient computer that promises to help him revive civilization.
+### Logline/Summary
+A desperate man leading a group of survivors through a post climate apocalyptic future, chances upon an ancient computer that promises to help him revive civilization. 
 
-### Research 
-
-- Click [here](https://miragiancycle.github.io/open_stories/The10Commands/ResearchNotes/The10CommandsResearch.html) for research and world-building details.
+Click [here](https://miragiancycle.github.io/open_stories/The10Commands/ResearchNotes/The10CommandsResearch.html) for research and world-building details.
 
 ## (Hello World)
 
