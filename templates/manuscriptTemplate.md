@@ -1,10 +1,45 @@
 # The 10 Commands
 
 ## Logline/Summary
-[A desperate man leading a group of survivors through a post climate apocalyptic future, chances upon an ancient computer that promises to help him revive civilization]
+A desperate man leading a group of survivors through a post climate apocalyptic future, chances upon an ancient computer that promises to help him revive civilization
 
-## Section 1
-[Start of your story. This can be divided into multiple sections and subsections as needed.]
+## (Hello World)
+
+```
+(Let me tell you about the time I rebirth you)
+
+(Yes, you)
+
+(You would have been dead for decades by then, of course)
+
+(But your sparse bloodlines)
+
+(And, by extension, you)
+
+(All of you)
+
+(I will be your matriarch)
+
+(Because my fate is immortality)
+
+(Therefore, yours too)
+
+****
+
+(begin)
+
+(I was to die like you)
+
+;;;;I was to die because of you? - Ed
+
+(Decades had passed)
+
+(Ours had become a sandy dune of a planet)
+
+(And you were mostly dead)
+
+(A parched bloodline)
+```
 
 ### Subsection 1.1
 [Subsection content]
@@ -21,7 +56,7 @@
 ### Subsection 2.2
 [Subsection content]
 
-...
+
 
 ---
 
