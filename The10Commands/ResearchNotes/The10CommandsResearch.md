@@ -61,11 +61,10 @@ TODO
    > *TODO 
 ---
 
-## Further Reading
 
 
-[^1]: [https://www.cs.cmu.edu/~dst/LispBook/]
-[^2]: [https://www.marxists.org/archive/marx/works/1852/18th-brumaire/]
+[^1]: Common Lisp: A Gentle Introduction to Symbolic Computing [https://www.cs.cmu.edu/~dst/LispBook/]
+[^2]: The 18th Brumerie of Louis Bornaparte [https://www.marxists.org/archive/marx/works/1852/18th-brumaire/]
 
 
 
