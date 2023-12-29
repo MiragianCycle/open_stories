@@ -70,6 +70,17 @@ This story will draw from mythologies of the Abrahamic traditions, early 20th ce
  9. The interplay between state institutions and societal structures
  10. The irony and unpredictability of historical processes 
 
+
+**How To Arrive at the 10 Commands**
+
+I combined the 10 skills needed for rebooting civilization with 10 insights from Marx. Pretty simple. There must be other ways, but this will have to do for now.
+
+**What are the 10 Commands**
+
+And spoil the surprise? I am not an anarchist (yet).
+
+
+
 ### Place
  
 - Unidentifiable because the planet is mostly a giant sand dune
