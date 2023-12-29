@@ -15,6 +15,6 @@ Spanning across multiple genres - from science and speculative fiction to magic 
 
 ***January*** 
 
-1. [The 10 Commands](The10Commands/The10Commands.md)
+1. [The 10 Commands](The10Commands/The10Commands.md)[Research](The10Commands/ResearchNotes/The10CommandsResearch.md)
 2. The Foodie
 3. Agni in Balangoda 
