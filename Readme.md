@@ -26,7 +26,7 @@ This project is designed for:
 - New writers starting their creative journeys
 - Avid readers transitioning into writing
 - Fans of fan fiction seeking a space to shape stories without limitations
-- Storytellers seeking inspiration and collaboration
+- Storytellers working in other disciplines (illustrators, comic book artists, animators, etc.,) seeking inspiration and collaboration
 
 ## Frequently Asked Questions
 
