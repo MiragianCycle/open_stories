@@ -2,10 +2,6 @@
 
 Open Stories is a community-driven hub where writers collaborate on creative prompts from across the web. Our mission is to foster an inclusive and diverse space, encouraging collaborative storytelling through the lens of shared ideas.
 
-## How to Contribute
-
-Whether you're a seasoned wordsmith or just starting out, you can join as a *Writer* or an *Editor*. Utilize [Git](https://git-scm.com/) for version control or learn through simple [pull requests](https://www.firsttimersonly.com/). Check out this [tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ) for guidance.
-
 ## Weekly Prompts and Manuscripts
 
 Every week, ([I](https://theena.net/)) craft a short story based on a prompt. The writing sessions are recorded without voice and shared on YouTube, while the manuscript (in markdown, LaTeX, PDF and HTML formats) is made available here.
@@ -27,6 +23,11 @@ This project is designed for:
 - Avid readers transitioning into writing
 - Fans of fan fiction seeking a space to shape stories without limitations
 - Storytellers working in other disciplines (illustrators, comic book artists, animators, etc.,) seeking inspiration and collaboration
+
+## How to Contribute
+
+Whether you're a seasoned wordsmith or just starting out, you can join as a *Writer* or an *Editor*. Utilize [Git](https://git-scm.com/) for version control or learn through simple [pull requests](https://www.firsttimersonly.com/). Check out this [tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ) for guidance.
+
 
 ## Frequently Asked Questions
 
