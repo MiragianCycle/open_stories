@@ -37,16 +37,16 @@ This story will draw from mythologies of the Abrahamic traditions, early 20th ce
 	
 	
  
- #### Marxism In the Time of Apocalypse
 
- **Why Marxism?**
+ **Marxism in the time of Apocalypse**
  
- I have a short and a long answer. 
+ Why Marx? I have a short and a long answer. 
  
- Short: it is a reflection of my political leaning
- Long: Capitalism is the pointy-end with which we poked, and continue to poke, this planet - repeatedly, and disastrously since the Industrial Revolution. 
+ Short: it is a reflection of my political leaning.
  
- Climate change is man-made, yes; capitalism made man do it. 
+ Long: Capitalism is the pointy-end with which we have poked, and continue to poke, this planet - repeatedly, and disastrously, since the Industrial Revolution. 
+ 
+ Climate change is man-made, yes, but capitalism made man do it. 
  
  **I don't agree with your politics**
  
