@@ -60,5 +60,12 @@ TODO
    > *TODO 
 ---
 
+## Further Reading
+1. **Karl Marx: The 18th Brumerie of Louis Bonaparte**[^1]
+2. **Common Lisp: A Gentle Introduction to Symbolic Computing**[^2]
+
+[^1]: [https://www.marxists.org/archive/marx/works/1852/18th-brumaire/]
+[^2]: [https://www.cs.cmu.edu/~dst/LispBook/]
+
 This research is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). Attribution: [2024, Theena Kumaragurunathan].
 
