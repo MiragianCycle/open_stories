@@ -1,6 +1,6 @@
-# Research Notes:
+# The 10 Commands: Research Notes
 
-## Metadata
+### Metadata
 
 - **Title**: The 10 Commands
 - **Author(s):** Theena Kumaragurunathan
@@ -14,7 +14,7 @@ A Moses-like figure is leading a small group of survivors through a post climate
 
 
 
-## Plot Ingredients
+### Plot Ingredients
 
 This story will draw from mythologies of the Abrahamic traditions, early 20th century computing history [^1]
 (particularly Unix, and early AI and symbolic computing using Lisp), Marxism [^2], and contemporary survivalist culture.
@@ -50,7 +50,7 @@ This story will draw from mythologies of the Abrahamic traditions, early 20th ce
  
  **I don't agree with your politics**
  
- Fortunately, you don't have to agree with my politics to a) read and engage with this material, and b) this is an open manuscript - if you don't like the politics, feel free to remove the Marxism and replace it with Randian individualism and capitalist utopianism; I am curious how *anyone* in a post apocalyptic context will lean towards capitalism, but hey stranger things have happened. 
+ Fortunately, you don't have to agree with my politics to a) read and engage with this material, and b) this is an open manuscript - if you don't like the politics, feel free to remove the Marxism and replace it with Randian individualism and free-market utopianism; I am curious how *anyone* in a post apocalyptic context will lean towards capitalism, but hey stranger things have happened. 
  
  
  **What did Marx have to say about the apocalypse**
