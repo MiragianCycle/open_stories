@@ -13,7 +13,7 @@ A Moses-like figure is leading a small group of survivors through a post climate
 
 ## Plot Ingredients
 
-This story will draw from Biblical stories, early 20th century computing history (particularly Unix and early AI and symbolic computing around Lisp), survivalist culture, and Marxism. 
+This story will draw from mythologies from Abrahamic traditions, early 20th century computing history (particularly Unix and early AI and symbolic computing around Lisp), survivalist culture, and Marxism. 
 
 
 
