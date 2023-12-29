@@ -5,7 +5,7 @@ A desperate man leading a group of survivors through a post climate apocalyptic 
 
 ### Research 
 
-- Click [here](The10Commands/ResearchNotes/The10CommandsResearch.md) for research and world-building details.
+- Click [here](https://miragiancycle.github.io/open_stories/The10Commands/ResearchNotes/The10CommandsResearch.html) for research and world-building details.
 
 ## Section 1
 [Start of your story. This can be divided into multiple sections and subsections as needed.]
