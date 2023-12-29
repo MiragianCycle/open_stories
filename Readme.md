@@ -1,12 +1,13 @@
-# Welcome to Open Stories!
 
 Open Stories is a community-driven hub where writers collaborate on creative prompts from across the web. Our mission is to foster an inclusive and diverse space, encouraging collaborative storytelling through the lens of shared ideas.
 
-## Weekly Prompts and Manuscripts
+## Open Prompts and Manuscripts
 
-Every week, ([I](https://theena.net/)) craft a short story based on a prompt. The writing sessions are recorded without voice and shared on YouTube, while the manuscript (in markdown, LaTeX, PDF and HTML formats) is made available here.
+([I](https://theena.net/)) craft a short story based on a [prompt](prompts.md). 
 
-Have a look at the [Prompts](prompts.md) page!
+The writing sessions are recorded without voice and shared on [YouTube](https://www.youtube.com/@theena), while the manuscript (in markdown, LaTeX, PDF and HTML formats) is made available here.
+
+Have a look at the [Prompts](prompts.md) page! We are just getting started. 
 
 ## Why Open Stories?
 
@@ -23,6 +24,7 @@ This project is designed for:
 - Avid readers transitioning into writing
 - Fans of fan fiction seeking a space to shape stories without limitations
 - Storytellers working in other disciplines (illustrators, comic book artists, animators, etc.,) seeking inspiration and collaboration
+- Everyone, really. Stories and story-telling are deeply engrained into the tapestry of human existence. It has always been so - and always will be. Even if you've never imagined *writing* or thought yourself as a creative person, there is something here for you.
 
 ## How to Contribute
 
