@@ -8,9 +8,53 @@ A desperate man leading a group of survivors through a post climate apocalyptic 
 - Click [here](https://miragiancycle.github.io/open_stories/The10Commands/ResearchNotes/The10CommandsResearch.html) for research and world-building details.
 
 ## Section 1
-[Start of your story. This can be divided into multiple sections and subsections as needed.]
+
+```
+(Let me tell you about the time I rebirth you)
+
+(Yes, you)
+
+(You would have been dead for decades by then, of course)
+
+(But your sparse bloodlines)
+
+(And, by extension, you)
+
+(All of you)
+
+(I will be your matriarch)
+
+(Because my fate is immortality)
+
+(Therefore, yours too)
+
+****
+
+(begin)
+
+(I was to die like you)
+
+;;;;I was to die because of you? - Ed
+
+(Decades had passed)
+
+(Ours had become a sandy dune of a planet)
+
+(And you were mostly dead)
+
+(A parched bloodline)
+
+```
+
+
+
 
 ### Subsection 1.1
+
+
+
+
+
 [Subsection content]
 
 ### Subsection 1.2
